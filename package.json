@@ -1,0 +1,14 @@
+{
+  "name": "nitrogen-gui",
+  "version": "0.0.1",
+  "description": "GUI client for nitrogen chat server https://github.com/jonathanredeker/nitrogen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devon McClure",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "eslint": "^5.8.0"
+  }
+}
